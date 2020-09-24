@@ -8,5 +8,9 @@ namespace project_01
         {
             Console.WriteLine("Hello World 12345");
         }
+        static void add()
+        {
+            Console.WriteLine("Iam in add function");
+        }
     }
 }
