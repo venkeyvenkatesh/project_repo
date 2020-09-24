@@ -12,5 +12,9 @@ namespace project_01
         {
             Console.WriteLine("Iam in add function");
         }
+        static void subtract()
+        {
+            Console.WriteLine("Iam in Subtract");
+        }
     }
 }
